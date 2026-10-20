@@ -1,0 +1,6 @@
+{
+  "name": "Whisper P2P",
+  "description": "Encrypted peer-to-peer ephemeral messaging application.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
